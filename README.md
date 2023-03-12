@@ -1,2 +1,2 @@
 # Computer Science Studies Repo
-### Respository made to upload projects from univeristy classes
+### Respository made to upload Java projects from my university classes
