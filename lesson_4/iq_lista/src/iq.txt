@@ -1,0 +1,52 @@
+Name,IQ
+ Stephen Hawking,160
+ Paul Allen,160
+ Albert Einstein,160
+ Nicolaus Copernicus,160
+ Nikola Tesla,160
+ Emanuel Swedenborg,165
+ Jacob Barnett,170
+ Judit Polgar,170
+ Hypatia,170
+ Cleopatra,180
+ John H Sununu,180
+ Marie Curie,180
+ Leonhard Euler,180
+ Galileo Galilei,180
+ John Stuart Mill,180
+ Leonardo da Vinci,180
+ Gottfried Leibniz,182
+ Srinivasa Ramanujan,185
+ Ettore Majorana,183
+ Thomas Young,185
+ Philip Emeagwali,190
+ Mislav Predavec,190
+ Richard Rosner,190
+ Isaac Newton,190
+ Voltaire,190
+ Rudolf Clausius,190
+ Christopher Langan,190
+ James Maxwell,190
+ Garry Kasparov,194
+ Evangelos Katsioulis,198
+ Nadia Camukova,200
+ Francis Galton,200
+ Michael Grost,200
+ Hugo Grotius,200
+ Thomas Wolsey,200
+ Sho Yano,200
+ Edith Stern,200
+ Nathan Leopold,210
+ William Shakespeare,210
+ Kim Ung-Yong,210
+ Johann Wolfgang von Goethe,210
+ Christopher Hirata,225
+ Marilyn vos Savant,228
+ Terence Tao,225
+ William James Sidis,250
+ Carl Gauss,250
+ Ainan Celeste Cawley,263
+ Marnen Laibow-Koser,268
+ Michael Kearney,325
+ Adragon De Mello,400
+Elon Musk,155
